@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FERNANDAvs
+- 👋 Hi, I’m @FERNANDA Sousa
 - 👀 I’m interested in ...tecnologias
 - 🌱 I’m currently learning ...HTML,CSS,JavaScript,Wordpress
 - 💞️ I’m looking to collaborate on ...
